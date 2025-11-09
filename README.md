@@ -4,8 +4,6 @@
 
 ---
 
-![Linkedin:Andrei Esteves](https://img.shields.io/badge/andrei%20esteves-blue?style=plastic&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrei-esteves%2F)
-
 ![Travrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=travrei&theme=transparent&show_icons=true)
 
 - 🔭 I'm currently working on **Documenta and AstroWar**
