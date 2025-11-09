@@ -1,6 +1,6 @@
 ## Hi! My Name is Andrei Esteves!
 
-### A Nurse that loves SoftwareEngeneering a
+### Nurse | Software Engineering & Game Dev Enthusiast
 
 ---
 
