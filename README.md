@@ -4,9 +4,7 @@
 
 ---
 
-![Travrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=travrei&theme=transparent&show_icons=true)
-
-- 🔭 I'm currently working on **Documenta and AstroWar**
+- 🔭 I'm currently working on **Documenta**
 
 - 🌱 I'm currently learning **C# and GDScript**
 
