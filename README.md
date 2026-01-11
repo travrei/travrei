@@ -10,7 +10,7 @@
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 🤝 I'm looking for help with **GameDev**
+- 🤝 I'm looking for help with **GameDev and Find Work**
 
 - 📫 How to reach me **andrei.esteves2198@gmail.com**
 
