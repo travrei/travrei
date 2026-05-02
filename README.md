@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Documenta**
 
-- 🌱 I'm currently learning **C# and GDScript**
+- 🌱 I'm currently learning **C and Rust**
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
